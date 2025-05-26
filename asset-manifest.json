@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/signature-test/static/css/main.de5fa60d.css",
+    "main.js": "/signature-test/static/js/main.92639c1a.js",
+    "static/js/453.2501a6c2.chunk.js": "/signature-test/static/js/453.2501a6c2.chunk.js",
+    "index.html": "/signature-test/index.html",
+    "main.de5fa60d.css.map": "/signature-test/static/css/main.de5fa60d.css.map",
+    "main.92639c1a.js.map": "/signature-test/static/js/main.92639c1a.js.map",
+    "453.2501a6c2.chunk.js.map": "/signature-test/static/js/453.2501a6c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5fa60d.css",
+    "static/js/main.92639c1a.js"
+  ]
+}
